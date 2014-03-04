@@ -1,0 +1,96 @@
+BlockSource: http://misl.stats.pointstreak.com/transactions.html?leagueid=919&seasonid=4942
+
+TEAM    DATE    TRANSACTION
+Rockford         03/05/10        ADD Richey, Jeff (GK) added to team
+Rockford          03/05/10        ADD Baker, Matt (M) added to team
+Rockford           03/05/10        ADD Ejupovic, Adnan (M) added to team
+Baltimore           03/04/10        ADD Ribeiro, Fabinho (D) claimed off waivers
+Monterrey            03/04/10        ADD Kante, Ibrahim (D) claimed off waivers
+Philadelphia          03/04/10        DEL Gibson, Leo (F) traded to Rockford
+Philadelphia           03/04/10        ADD Ayegbusi, Tijani (D) claimed off waivers
+Philadelphia            03/04/10        ADD Mesanovic, Semir (M) claimed off waivers
+Philadelphia             03/04/10        ADD Brooks, Gary (M) claimed off waivers
+Rockford                  03/04/10        ADD Gibson, Leo (F) acquired in trade from Philadelphia
+Baltimore                  03/01/10        DEL Alexander, Logan (D) waived
+Philadelphia                03/01/10        DEL Castellanos, David (M) waived
+Rockford                     03/01/10        DEL Ribeiro, Fabinho (D) waived
+Rockford                      03/01/10        DEL Ayegbusi, Tijani (D) waived
+Rockford                       03/01/10        DEL Mesanovic, Semir (M) waived
+Rockford                        03/01/10        DEL Brooks, Gary (M) waived
+Rockford                         03/01/10        DEL Kante, Ibrahim (D) waived
+Philadelphia                      02/26/10        DEL Taylor, Joe (M) waived
+Rockford                           02/22/10        DEL DaVae, John (F) waived
+Philadelphia                        02/10/10        DEL Rowley, Pete (F) waived
+Monterrey                            02/05/10        DEL Krause, John (D) waived
+Baltimore                             01/04/10        DEL Dello-Russo, Mike (D) waived
+Monterrey                              01/04/10        DEL Oteo, David (D) waived
+Monterrey                               12/07/09        DEL Luiz Birche, Jose (D) waived
+Monterrey                                12/07/09        DEL Da Silva, Juninho (M) waived
+
+
+BlockSource: http://misl.stats.pointstreak.com/transactions.html?leagueid=919&seasonid=6451
+TEAM    DATE    TRANSACTION
+Missouri         03/06/11        DEL Coleman, Levi (F) waived
+Chicago           03/02/11        DEL Maher, Anthony () traded to Missouri
+Milwaukee          03/02/11        ADD Pablo, Pablo (F) added to team
+Missouri            03/02/11        ADD Maher, Anthony (F) acquired in trade from Chicago
+Milwaukee            02/18/11        DEL Wiesner, Brett (M) waived
+Omaha                 02/14/11        DEL Bontti, Jose (G) waived
+Omaha                  02/14/11        DEL Farias, Carlos (F) waived
+Omaha                   02/14/11        DEL Farias, Carlos (G) waived
+Chicago                  02/10/11        DEL Santeliz, Edward (F) waived
+Missouri                  02/04/11        DEL Luiz, Birche (F) waived
+Chicago                    01/26/11        DEL Zebic, Zlatko (F) waived
+Missouri                    01/20/11        DEL Dastan, Shahryar (D) waived
+Missouri                     01/20/11        DEL Will, John (F) released
+Milwaukee                     01/07/11        DEL Pablo, Pablo (F) waived
+Chicago                        01/06/11        DEL Knezevic, Vlade (F) waived
+Omaha                           12/22/10        DEL Le Petit, Paulo (M) waived
+Missouri                         12/18/10        DEL ODell, Chaz (F) waived
+Missouri                          12/13/10        DEL Dyson, Oliver (D) waived
+Missouri                           12/13/10        DEL Avery, Tony (F) waived
+Chicago                             12/10/10        DEL Opera, Dorin (M) waived
+Chicago                              11/11/10        ADD Megson, Alex (F) acquired in trade from Milwaukee
+Milwaukee                             11/11/10        DEL Megson, Alex (F) traded to Chicago
+
+
+Season: 2011-2012
+BlockSource: http://misl.stats.pointstreak.com/transactions.html?leagueid=919&seasonid=8052
+
+Rochester        02/09/12        ADD Ball, John (F) signed contract
+Norfolk           02/03/12        ADD Acosta, Robert (D) signed contract
+Syracuse           02/03/12        ADD Tovar, Enrique (D) signed contract
+Syracuse            02/03/12        ADD Reyes, Juan (D) signed contract
+Syracuse             02/02/12        DEL Barrera, Diego (F) released
+Rochester             01/26/12        ADD Snelgrove, Josiah (M) signed contract
+Wichita                01/23/12        DEL , Fausto (M) released
+Rochester               01/16/12        DEL Reyes, Juan (D) released
+Syracuse                 01/12/12        ADD OQuinn, Bryan (G) signed contract
+Norfolk                   01/06/12        DEL Bangura, Shaka (F) released
+Rochester                  01/06/12        DEL Tillemont, Leonardo (G) released
+Rochester                   01/06/12        DEL Martins, Diego (M) released
+Rochester                    01/06/12        DEL Kitson, Neal (G) released
+Syracuse                      01/06/12        DEL Steele, Jonny (F) released
+Syracuse                       01/06/12        DEL Serna, Diego (F) released
+Syracuse                        01/06/12        DEL Reina, Angelo (F) released
+Syracuse                         01/06/12        DEL Karic, Zoran (F) released
+Wichita                           01/06/12        DEL Farias, Carlos (G) released
+Baltimore                          01/05/12        DEL Watson, Matt (F) released
+Milwaukee                           01/05/12        DEL Rampa, Tenzin (F) released
+Rochester                            01/05/12        ADD Farias, Carlos (F) signed contract
+Wichita                               01/05/12        DEL Farias, Carlos (F) released
+
+
+
+Season: 2012-2013
+
+
+TEAM    DATE    TRANSACTION
+Syracuse         11/30/12        DEL Berenzon, Andre (F) traded to Wichita
+Syracuse          11/30/12        ADD Beasley, Jamar (F) acquired in trade from Wichita
+Syracuse           11/30/12        DEL Clare, Matt (F) traded to Wichita
+Syracuse            11/30/12        ADD Perez, Bryan (F) acquired in trade from Wichita
+Wichita              11/30/12        ADD Berenzon, Andre (F) acquired in trade from Syracuse
+Wichita               11/30/12        DEL Perez, Bryan (F) traded to Syracuse
+Wichita                11/30/12        ADD Clare, Matt (F) acquired in trade from Syracuse
+Wichita                 11/30/12        DEL Beasley, Jamar (F) traded to Syracuse
