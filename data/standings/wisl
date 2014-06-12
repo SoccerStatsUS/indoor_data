@@ -1,0 +1,43 @@
+Competition: World Indoor Soccer League
+
+Season: 1998
+Key: team; games; wins; losses
+
+Dallas Sidekicks; 10; 8; 2
+Sacramento Knights; 8; 4; 4
+Arizona Thunder; 7; 3; 4
+Portland Pythons; 7; 1; 6
+
+
+Season: 1999
+Key: team; games; wins; losses; goals_for; goals_against
+
+Sacramento Knights; 22; 17; 5; 127; 88
+Dallas Sidekicks; 22; 17; 5; 152; 107
+Monterrey La Raza; 22; 14; 8; 142; 114
+Utah Freezz; 22; 12; 10; 126; 123
+Portland Pythons; 22; 11; 11; 115; 111
+Arizona Thunder; 22; 7; 15; 125; 148
+Houston Hotshots; 22; 6; 16; 88; 131
+Brazil; 7; 2; 5; 29; 38
+Mexico; 7; 0; 7; 21; 68
+
+
+Season: 2000
+
+Monterrey La Raza; 24; 20; 4; 167; 126
+Dallas Sidekicks; 24; 17; 7; 153; 107
+Utah Freezz; 24; 15; 9; 124; 113
+Houston Hotshots; 24; 10; 14; 125; 135
+St. Louis Steamers; 24; 9; 15; 125; 137
+Arizona Thunder; 24; 8; 16; 105; 118
+Sacramento Knights; 24; 5; 19; 94; 155
+
+
+Season: 2001
+
+San Diego Sockers; 24; 14; 10; 133; 114
+Dallas Sidekicks; 24; 14; 10; 109; 108
+St. Louis Steamers; 24; 11; 13; 122; 132
+Sacramento Knights; 24; 11; 13; 123; 125
+Utah Freezz; 24; 10; 14; 113; 121

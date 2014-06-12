@@ -3,6 +3,8 @@ Competition: Xtreme Soccer League
 Season: 2008-2009
 BlockSource: http://www.justsportsstats.com/soccerindex.php?league=XSL
 
+Key: player; position; games_played; _; _; goals; assists; shots; _; fc; pim; bl; ppg; shg; gwg; otg; s%
+
 Team: Chicago Storm
 
 Ian Bennett            ; M,F    ; 20     ; 0      ; 0      ; 13     ; 7      ; 54     ; 0      ; 31     ; 0      ; 6      ; 0      ; 0; 1; 0   ; 24.1 
