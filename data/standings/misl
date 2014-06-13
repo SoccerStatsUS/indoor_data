@@ -1,213 +1,201 @@
-
 Competition: Major Indoor Soccer League (1978-1992)
-
-Season: 1992-1993
-
-Key: team; x; y; games; wins; losses; points; goals_for; goals_against
-
-San Diego Sockers; Major Indoor Soccer League (1978-1992); 1992-1993; 40; 26; 14; 26; 243; 186 
-Dallas Sidekicks; Major Indoor Soccer League (1978-1992); 1992-1993; 40; 22; 18; 22; 231; 229 
-Cleveland Crunch; Major Indoor Soccer League (1978-1992); 1992-1993; 40; 20; 20; 20; 249; 229 
-Baltimore Blast; Major Indoor Soccer League (1978-1992); 1992-1993; 40; 19; 21; 19; 213; 230 
-Wichita Wings; Major Indoor Soccer League (1978-1992); 1992-1993; 40; 18; 22; 18; 198; 236 
-Tacoma Stars; Major Indoor Soccer League (1978-1992); 1992-1993; 40; 18; 22; 18; 228; 242 
-St. Louis Storm; Major Indoor Soccer League (1978-1992); 1992-1993; 40; 17; 23; 17; 241; 251 
-
-Season: 1988-1989
-
-Baltimore Blast; Major Indoor Soccer League (1978-1992); 1988-1989; 48; 29; 19; ; 215; 208 
-San Diego Sockers; Major Indoor Soccer League (1978-1992); 1988-1989; 48; 27; 21; ; 218; 168 
-Dallas Sidekicks; Major Indoor Soccer League (1978-1992); 1988-1989; 48; 24; 24; ; 185; 206 
-Tacoma Stars; Major Indoor Soccer League (1978-1992); 1988-1989; 48; 23; 25; ; 208; 207 
-Wichita Wings; Major Indoor Soccer League (1978-1992); 1988-1989; 48; 23; 25; ; 213; 208 
-Los Angeles Lazers; Major Indoor Soccer League (1978-1992); 1988-1989; 48; 21; 27; ; 218; 222 
-Kansas City Comets; Major Indoor Soccer League (1978-1992); 1988-1989; 48; 21; 27; ; 194; 233 
-
-Season: 1989-1990
-
-Baltimore Blast; Major Indoor Soccer League (1978-1992); 1989-1990; 52; 32; 20; ; 231; 191 
-Kansas City Comets; Major Indoor Soccer League (1978-1992); 1989-1990; 52; 30; 22; ; 208; 205 
-Wichita Wings; Major Indoor Soccer League (1978-1992); 1989-1990; 52; 26; 26; ; 210; 229 
-Cleveland Crunch; Major Indoor Soccer League (1978-1992); 1989-1990; 52; 20; 32; ; 201; 237 
-Dallas Sidekicks; Major Indoor Soccer League (1978-1992); 1989-1990; 52; 31; 21; ; 217; 190 
-San Diego Sockers; Major Indoor Soccer League (1978-1992); 1989-1990; 52; 25; 27; ; 217; 204 
-St. Louis Storm; Major Indoor Soccer League (1978-1992); 1989-1990; 52; 24; 28; ; 202; 205 
-Tacoma Stars; Major Indoor Soccer League (1978-1992); 1989-1990; 52; 20; 32; ; 191; 217 
-
-Season: 1990-1991
-
-Cleveland Crunch; Major Indoor Soccer League (1978-1992); 1990-1991; 52; 29; 23; ; 322; 280 
-Kansas City Comets; Major Indoor Soccer League (1978-1992); 1990-1991; 52; 26; 26; ; 263; 283 
-Baltimore Blast; Major Indoor Soccer League (1978-1992); 1990-1991; 52; 21; 31; ; 298; 315 
-Wichita Wings; Major Indoor Soccer League (1978-1992); 1990-1991; 52; 21; 31; ; 257; 308 
-San Diego Sockers; Major Indoor Soccer League (1978-1992); 1990-1991; 52; 34; 18; ; 302; 250 
-St. Louis Storm; Major Indoor Soccer League (1978-1992); 1990-1991; 52; 32; 20; ; 320; 288 
-Tacoma Stars; Major Indoor Soccer League (1978-1992); 1990-1991; 52; 25; 27; ; 254; 259 
-Dallas Sidekicks; Major Indoor Soccer League (1978-1992); 1990-1991; 52; 20; 32; ; 257; 294 
-
-Season: 1991-1992
-
-Canton Invaders; Major Indoor Soccer League (1978-1992); 1991-1992; 40; 24; 16; ; 476; 447 
-Harrisburg Heat; Major Indoor Soccer League (1978-1992); 1991-1992; 40; 24; 16; ; 547; 462 
-Detroit Rockers; Major Indoor Soccer League (1978-1992); 1991-1992; 40; 22; 18; ; 542; 485 
-Dayton Dynamo; Major Indoor Soccer League (1978-1992); 1991-1992; 40; 9; 31; ; 479; 593 
-Chicago Power; Major Indoor Soccer League (1978-1992); 1991-1992; 40; 30; 10; ; 524; 439 
-Kansas City Attack; Major Indoor Soccer League (1978-1992); 1991-1992; 40; 26; 14; ; 630; 473 
-Illinois Thunder; Major Indoor Soccer League (1978-1992); 1991-1992; 40; 20; 20; ; 496; 523 
-Milwaukee Wave; Major Indoor Soccer League (1978-1992); 1991-1992; 40; 18; 22; ; 453; 534 
-Tulsa Ambush; Major Indoor Soccer League (1978-1992); 1991-1992; 40; 7; 33; ; 452; 643 
+Key: team; games; wins; losses; points; goals_for; goals_against
 
 Season: 1978-1979
 
-Houston Summit Soccer; Major Indoor Soccer League (1978-1992); 1978-1979; 24; 18; 6; ; 175; 114 
-New York Arrows; Major Indoor Soccer League (1978-1992); 1978-1979; 24; 16; 8; ; 176; 136 
-Cincinnati Kids; Major Indoor Soccer League (1978-1992); 1978-1979; 24; 16; 8; ; 154; 129 
-Philadelphia Fever; Major Indoor Soccer League (1978-1992); 1978-1979; 24; 11; 13; ; 141; 154 
-Pittsburgh Spirit; Major Indoor Soccer League (1978-1992); 1978-1979; 24; 6; 18; ; 123; 171 
-Cleveland Force; Major Indoor Soccer League (1978-1992); 1978-1979; 24; 5; 19; ; 94; 159 
+Houston Summit Soccer; 24; 18; 6; ; 175; 114 
+New York Arrows; 24; 16; 8; ; 176; 136 
+Cincinnati Kids; 24; 16; 8; ; 154; 129 
+Philadelphia Fever; 24; 11; 13; ; 141; 154 
+Pittsburgh Spirit; 24; 6; 18; ; 123; 171 
+Cleveland Force; 24; 5; 19; ; 94; 159 
 
 Season: 1979-1980
 
-
-New York Arrows; Major Indoor Soccer League (1978-1992); 1979-1980; 32; 27; 5; ; 296; 175 
-Pittsburgh Spirit; Major Indoor Soccer League (1978-1992); 1979-1980; 32; 18; 14; ; 188; 191 
-Buffalo Stallions; Major Indoor Soccer League (1978-1992); 1979-1980; 32; 17; 15; ; 172; 197 
-Philadelphia Fever; Major Indoor Soccer League (1978-1992); 1979-1980; 32; 17; 15; ; 201; 197 
-Hartford Hellions; Major Indoor Soccer League (1978-1992); 1979-1980; 32; 6; 26; ; 151; 240 
-Houston Summit Soccer; Major Indoor Soccer League (1978-1992); 1979-1980; 32; 20; 12; ; 181; 160 
-Wichita Wings; Major Indoor Soccer League (1978-1992); 1979-1980; 32; 16; 16; ; 187; 173 
-Detroit Lightning; Major Indoor Soccer League (1978-1992); 1979-1980; 32; 15; 17; ; 192; 201 
-St. Louis Steamers; Major Indoor Soccer League (1978-1992); 1979-1980; 32; 12; 20; ; 177; 184 
-Cleveland Force; Major Indoor Soccer League (1978-1992); 1979-1980; 32; 12; 20; ; 152; 179 
+New York Arrows; 32; 27; 5; ; 296; 175 
+Pittsburgh Spirit; 32; 18; 14; ; 188; 191 
+Buffalo Stallions; 32; 17; 15; ; 172; 197 
+Philadelphia Fever; 32; 17; 15; ; 201; 197 
+Hartford Hellions; 32; 6; 26; ; 151; 240 
+Houston Summit Soccer; 32; 20; 12; ; 181; 160 
+Wichita Wings; 32; 16; 16; ; 187; 173 
+Detroit Lightning; 32; 15; 17; ; 192; 201 
+St. Louis Steamers; 32; 12; 20; ; 177; 184 
+Cleveland Force; 32; 12; 20; ; 152; 179 
 
 Season: 1980-1981
 
-New York Arrows; Major Indoor Soccer League (1978-1992); 1980-1981; 40; 35; 5; ; 285; 176 
-Baltimore Blast; Major Indoor Soccer League (1978-1992); 1980-1981; 40; 21; 19; ; 182; 190 
-Philadelphia Fever; Major Indoor Soccer League (1978-1992); 1980-1981; 40; 18; 22; ; 212; 245 
-Hartford Hellions; Major Indoor Soccer League (1978-1992); 1980-1981; 40; 13; 27; ; 165; 192 
-St. Louis Steamers; Major Indoor Soccer League (1978-1992); 1980-1981; 40; 25; 15; ; 222; 196 
-Cleveland Force; Major Indoor Soccer League (1978-1992); 1980-1981; 40; 21; 19; ; 209; 214 
-Chicago Horizon; Major Indoor Soccer League (1978-1992); 1980-1981; 40; 20; 20; ; 216; 187 
-Buffalo Stallions; Major Indoor Soccer League (1978-1992); 1980-1981; 40; 20; 20; ; 246; 210 
-Wichita Wings; Major Indoor Soccer League (1978-1992); 1980-1981; 40; 23; 17; ; 228; 181 
-Phoenix Inferno; Major Indoor Soccer League (1978-1992); 1980-1981; 40; 17; 23; ; 210; 254 
-Denver Avalanche; Major Indoor Soccer League (1978-1992); 1980-1981; 40; 16; 24; ; 174; 217 
-San Francisco Fog; Major Indoor Soccer League (1978-1992); 1980-1981; 40; 11; 29; ; 175; 271 
+New York Arrows; 40; 35; 5; ; 285; 176 
+Baltimore Blast; 40; 21; 19; ; 182; 190 
+Philadelphia Fever; 40; 18; 22; ; 212; 245 
+Hartford Hellions; 40; 13; 27; ; 165; 192 
+St. Louis Steamers; 40; 25; 15; ; 222; 196 
+Cleveland Force; 40; 21; 19; ; 209; 214 
+Chicago Horizon; 40; 20; 20; ; 216; 187 
+Buffalo Stallions; 40; 20; 20; ; 246; 210 
+Wichita Wings; 40; 23; 17; ; 228; 181 
+Phoenix Inferno; 40; 17; 23; ; 210; 254 
+Denver Avalanche; 40; 16; 24; ; 174; 217 
+San Francisco Fog; 40; 11; 29; ; 175; 271 
 
 
 Season: 1981-1982
 
-New York Arrows; Major Indoor Soccer League (1978-1992); 1981-1982; 44; 36; 8; ; 302; 199 
-Pittsburgh Spirit; Major Indoor Soccer League (1978-1992); 1981-1982; 44; 31; 13; ; 254; 208 
-Baltimore Blast; Major Indoor Soccer League (1978-1992); 1981-1982; 44; 27; 17; ; 223; 207 
-Buffalo Stallions; Major Indoor Soccer League (1978-1992); 1981-1982; 44; 24; 20; ; 276; 244 
-New Jersey Rockets; Major Indoor Soccer League (1978-1992); 1981-1982; 44; 17; 27; ; 195; 230 
-Cleveland Force; Major Indoor Soccer League (1978-1992); 1981-1982; 44; 15; 29; ; 205; 250 
-Philadelphia Fever; Major Indoor Soccer League (1978-1992); 1981-1982; 44; 11; 33; ; 175; 250 
-St. Louis Steamers; Major Indoor Soccer League (1978-1992); 1981-1982; 44; 28; 16; ; 228; 182 
-Wichita Wings; Major Indoor Soccer League (1978-1992); 1981-1982; 44; 27; 17; ; 235; 200 
-Memphis Americans; Major Indoor Soccer League (1978-1992); 1981-1982; 44; 20; 24; ; 250; 271 
-Denver Avalanche; Major Indoor Soccer League (1978-1992); 1981-1982; 44; 19; 25; ; 182; 203 
-Phoenix Inferno; Major Indoor Soccer League (1978-1992); 1981-1982; 44; 17; 27; ; 222; 254 
-Kansas City Comets; Major Indoor Soccer League (1978-1992); 1981-1982; 44; 14; 30; ; 174; 223 
+New York Arrows; 44; 36; 8; ; 302; 199 
+Pittsburgh Spirit; 44; 31; 13; ; 254; 208 
+Baltimore Blast; 44; 27; 17; ; 223; 207 
+Buffalo Stallions; 44; 24; 20; ; 276; 244 
+New Jersey Rockets; 44; 17; 27; ; 195; 230 
+Cleveland Force; 44; 15; 29; ; 205; 250 
+Philadelphia Fever; 44; 11; 33; ; 175; 250 
+St. Louis Steamers; 44; 28; 16; ; 228; 182 
+Wichita Wings; 44; 27; 17; ; 235; 200 
+Memphis Americans; 44; 20; 24; ; 250; 271 
+Denver Avalanche; 44; 19; 25; ; 182; 203 
+Phoenix Inferno; 44; 17; 27; ; 222; 254 
+Kansas City Comets; 44; 14; 30; ; 174; 223 
 
 
 Season: 1982-1983
 
-Baltimore Blast; Major Indoor Soccer League (1978-1992); 1982-1983; 48; 30; 18; ; 249; 224 
-Cleveland Force; Major Indoor Soccer League (1978-1992); 1982-1983; 48; 29; 19; ; 285; 267 
-Chicago Sting; Major Indoor Soccer League (1978-1992); 1982-1983; 48; 28; 20; ; 285; 239 
-New York Arrows; Major Indoor Soccer League (1978-1992); 1982-1983; 48; 24; 24; ; 225; 219 
-Pittsburgh Spirit; Major Indoor Soccer League (1978-1992); 1982-1983; 48; 24; 24; ; 250; 247 
-Buffalo Stallions; Major Indoor Soccer League (1978-1992); 1982-1983; 48; 22; 26; ; 270; 274 
-Memphis Americans; Major Indoor Soccer League (1978-1992); 1982-1983; 48; 19; 29; ; 239; 274 
-San Diego Sockers; Major Indoor Soccer League (1978-1992); 1982-1983; 48; 32; 16; ; 289; 230 
-Wichita Wings; Major Indoor Soccer League (1978-1992); 1982-1983; 48; 27; 21; ; 273; 249 
-Kansas City Comets; Major Indoor Soccer League (1978-1992); 1982-1983; 48; 26; 22; ; 219; 210 
-St. Louis Steamers; Major Indoor Soccer League (1978-1992); 1982-1983; 48; 26; 22; ; 234; 234 
-Phoenix Inferno; Major Indoor Soccer League (1978-1992); 1982-1983; 48; 24; 24; ; 249; 255 
-Golden Bay Earthquakes; Major Indoor Soccer League (1978-1992); 1982-1983; 48; 17; 31; ; 240; 290 
-Los Angeles Lazers; Major Indoor Soccer League (1978-1992); 1982-1983; 48; 8; 40; ; 191; 286
+Baltimore Blast; 48; 30; 18; ; 249; 224 
+Cleveland Force; 48; 29; 19; ; 285; 267 
+Chicago Sting; 48; 28; 20; ; 285; 239 
+New York Arrows; 48; 24; 24; ; 225; 219 
+Pittsburgh Spirit; 48; 24; 24; ; 250; 247 
+Buffalo Stallions; 48; 22; 26; ; 270; 274 
+Memphis Americans; 48; 19; 29; ; 239; 274 
+San Diego Sockers; 48; 32; 16; ; 289; 230 
+Wichita Wings; 48; 27; 21; ; 273; 249 
+Kansas City Comets; 48; 26; 22; ; 219; 210 
+St. Louis Steamers; 48; 26; 22; ; 234; 234 
+Phoenix Inferno; 48; 24; 24; ; 249; 255 
+Golden Bay Earthquakes; 48; 17; 31; ; 240; 290 
+Los Angeles Lazers; 48; 8; 40; ; 191; 286
 
 Season: 1983-1984
 
 
-*Baltimore Blast; Major Indoor Soccer League (1978-1992); 1983-1984; 48; 34; 14; 280; 203
+*Baltimore Blast; 48; 34; 14; ; 280; 203
 
-Pittsburgh Spirit; Major Indoor Soccer League (1978-1992); 1983-1984; 48; 32; 16; ; 245; 204 
-Cleveland Force; Major Indoor Soccer League (1978-1992); 1983-1984; 48; 31; 17; ; 269; 229 
-New York Arrows; Major Indoor Soccer League (1978-1992); 1983-1984; 48; 20; 28; ; 232; 280 
-Memphis Americans; Major Indoor Soccer League (1978-1992); 1983-1984; 48; 18; 30; ; 216; 284 
-Buffalo Stallions; Major Indoor Soccer League (1978-1992); 1983-1984; 48; 15; 33; ; 226; 279 
-St. Louis Steamers; Major Indoor Soccer League (1978-1992); 1983-1984; 48; 26; 22; ; 220; 202 
-Wichita Wings; Major Indoor Soccer League (1978-1992); 1983-1984; 48; 25; 23; ; 237; 228 
-Los Angeles Lazers; Major Indoor Soccer League (1978-1992); 1983-1984; 48; 24; 24; ; 223; 239 
-Kansas City Comets; Major Indoor Soccer League (1978-1992); 1983-1984; 48; 23; 25; ; 232; 246 
-Tacoma Stars; Major Indoor Soccer League (1978-1992); 1983-1984; 48; 22; 26; ; 226; 232 
-Phoenix Pride; Major Indoor Soccer League (1978-1992); 1983-1984; 48; 18; 30; ; 221; 249 
-
+Pittsburgh Spirit; 48; 32; 16; ; 245; 204 
+Cleveland Force; 48; 31; 17; ; 269; 229 
+New York Arrows; 48; 20; 28; ; 232; 280 
+Memphis Americans; 48; 18; 30; ; 216; 284 
+Buffalo Stallions; 48; 15; 33; ; 226; 279 
+St. Louis Steamers; 48; 26; 22; ; 220; 202 
+Wichita Wings; 48; 25; 23; ; 237; 228 
+Los Angeles Lazers; 48; 24; 24; ; 223; 239 
+Kansas City Comets; 48; 23; 25; ; 232; 246 
+Tacoma Stars; 48; 22; 26; ; 226; 232 
+Phoenix Pride; 48; 18; 30; ; 221; 249 
 
 Season: 1984-1985
 
-Baltimore Blast; Major Indoor Soccer League (1978-1992); 1984-1985; 48; 32; 16; ; 252; 190 
-Chicago Sting; Major Indoor Soccer League (1978-1992); 1984-1985; 48; 28; 20; ; 261; 223 
-Cleveland Force; Major Indoor Soccer League (1978-1992); 1984-1985; 48; 27; 21; ; 239; 228 
-Minnesota Strikers; Major Indoor Soccer League (1978-1992); 1984-1985; 48; 24; 24; ; 224; 226 
-St. Louis Steamers; Major Indoor Soccer League (1978-1992); 1984-1985; 48; 24; 24; ; 211; 207 
-Pittsburgh Spirit; Major Indoor Soccer League (1978-1992); 1984-1985; 48; 19; 29; ; 217; 256 
-New York Cosmos; Major Indoor Soccer League (1978-1992); 1984-1985; 33; 11; 22; ; 137; 185 
+Baltimore Blast; 48; 32; 16; ; 252; 190 
+Chicago Sting; 48; 28; 20; ; 261; 223 
+Cleveland Force; 48; 27; 21; ; 239; 228 
+Minnesota Strikers; 48; 24; 24; ; 224; 226 
+St. Louis Steamers; 48; 24; 24; ; 211; 207 
+Pittsburgh Spirit; 48; 19; 29; ; 217; 256 
+New York Cosmos; 33; 11; 22; ; 137; 185 
 *error
-San Diego Sockers; Major Indoor Soccer League (1978-1992); 1984-1985; 48; 37; 11; ; 302; 201 
-Las Vegas Americans; Major Indoor Soccer League (1978-1992); 1984-1985; 48; 30; 18; ; 269; 214 
-Los Angeles Lazers; Major Indoor Soccer League (1978-1992); 1984-1985; 48; 24; 24; ; 232; 230 
-Kansas City Comets; Major Indoor Soccer League (1978-1992); 1984-1985; 48; 22; 26; ; 216; 221 
-Wichita Wings; Major Indoor Soccer League (1978-1992); 1984-1985; 48; 21; 27; ; 202; 233 
-Tacoma Stars; Major Indoor Soccer League (1978-1992); 1984-1985; 48; 17; 31; ; 207; 263 
-Dallas Sidekicks; Major Indoor Soccer League (1978-1992); 1984-1985; 48; 12; 36; ; 194; 286 
+* cosmos did not complete season?
+San Diego Sockers; 48; 37; 11; ; 302; 201 
+Las Vegas Americans; 48; 30; 18; ; 269; 214 
+Los Angeles Lazers; 48; 24; 24; ; 232; 230 
+Kansas City Comets; 48; 22; 26; ; 216; 221 
+Wichita Wings; 48; 21; 27; ; 202; 233 
+Tacoma Stars; 48; 17; 31; ; 207; 263 
+Dallas Sidekicks; 48; 12; 36; ; 194; 286 
 
 
 Season: 1985-1986
 
-Cleveland Force; Major Indoor Soccer League (1978-1992); 1985-1986; 48; 27; 21; ; 252; 212 
-Minnesota Strikers; Major Indoor Soccer League (1978-1992); 1985-1986; 48; 26; 22; ; 232; 242 
-Dallas Sidekicks; Major Indoor Soccer League (1978-1992); 1985-1986; 48; 25; 23; ; 220; 231 
-Baltimore Blast; Major Indoor Soccer League (1978-1992); 1985-1986; 48; 24; 24; ; 211; 201 
-Chicago Sting; Major Indoor Soccer League (1978-1992); 1985-1986; 48; 23; 25; ; 196; 196 
-Pittsburgh Spirit; Major Indoor Soccer League (1978-1992); 1985-1986; 48; 23; 25; ; 221; 237 
-San Diego Sockers; Major Indoor Soccer League (1978-1992); 1985-1986; 48; 36; 12; ; 308; 195 
-Wichita Wings; Major Indoor Soccer League (1978-1992); 1985-1986; 48; 27; 21; ; 258; 226 
-Tacoma Stars; Major Indoor Soccer League (1978-1992); 1985-1986; 48; 23; 25; ; 208; 232 
-St. Louis Steamers; Major Indoor Soccer League (1978-1992); 1985-1986; 48; 23; 25; ; 223; 233 
-Kansas City Comets; Major Indoor Soccer League (1978-1992); 1985-1986; 48; 18; 30; ; 217; 268 
-Los Angeles Lazers; Major Indoor Soccer League (1978-1992); 1985-1986; 48; 13; 35; ; 197; 270 
+Cleveland Force; 48; 27; 21; ; 252; 212 
+Minnesota Strikers; 48; 26; 22; ; 232; 242 
+Dallas Sidekicks; 48; 25; 23; ; 220; 231 
+Baltimore Blast; 48; 24; 24; ; 211; 201 
+Chicago Sting; 48; 23; 25; ; 196; 196 
+Pittsburgh Spirit; 48; 23; 25; ; 221; 237 
+San Diego Sockers; 48; 36; 12; ; 308; 195 
+Wichita Wings; 48; 27; 21; ; 258; 226 
+Tacoma Stars; 48; 23; 25; ; 208; 232 
+St. Louis Steamers; 48; 23; 25; ; 223; 233 
+Kansas City Comets; 48; 18; 30; ; 217; 268 
+Los Angeles Lazers; 48; 13; 35; ; 197; 270 
 
 
 Season: 1986-1987
 
-Cleveland Force; Major Indoor Soccer League (1978-1992); 1986-1987; 52; 34; 18; ; 252; 218 
-Baltimore Blast; Major Indoor Soccer League (1978-1992); 1986-1987; 52; 33; 19; ; 239; 201 
-Dallas Sidekicks; Major Indoor Soccer League (1978-1992); 1986-1987; 52; 28; 24; ; 209; 197 
-Minnesota Strikers; Major Indoor Soccer League (1978-1992); 1986-1987; 52; 26; 26; ; 205; 198 
-Chicago Sting; Major Indoor Soccer League (1978-1992); 1986-1987; 52; 23; 29; ; 263; 265 
-New York Express; Major Indoor Soccer League (1978-1992); 1986-1987; 26; 3; 23; ; 97; 159 
-Tacoma Stars; Major Indoor Soccer League (1978-1992); 1986-1987; 52; 35; 17; ; 249; 211 
-Kansas City Comets; Major Indoor Soccer League (1978-1992); 1986-1987; 52; 28; 24; ; 271; 253 
-San Diego Sockers; Major Indoor Soccer League (1978-1992); 1986-1987; 52; 27; 25; ; 214; 200 
-Wichita Wings; Major Indoor Soccer League (1978-1992); 1986-1987; 52; 27; 25; ; 268; 265 
-St. Louis Steamers; Major Indoor Soccer League (1978-1992); 1986-1987; 52; 19; 33; ; 195; 224 
-Los Angeles Lazers; Major Indoor Soccer League (1978-1992); 1986-1987; 52; 16; 36; ; 183; 254 
+Cleveland Force; 52; 34; 18; ; 252; 218 
+Baltimore Blast; 52; 33; 19; ; 239; 201 
+Dallas Sidekicks; 52; 28; 24; ; 209; 197 
+Minnesota Strikers; 52; 26; 26; ; 205; 198 
+Chicago Sting; 52; 23; 29; ; 263; 265 
+New York Express; 26; 3; 23; ; 97; 159 
+Tacoma Stars; 52; 35; 17; ; 249; 211 
+Kansas City Comets; 52; 28; 24; ; 271; 253 
+San Diego Sockers; 52; 27; 25; ; 214; 200 
+Wichita Wings; 52; 27; 25; ; 268; 265 
+St. Louis Steamers; 52; 19; 33; ; 195; 224 
+Los Angeles Lazers; 52; 16; 36; ; 183; 254 
 
 Season: 1987-1988
 
-Minnesota Strikers; Major Indoor Soccer League (1978-1992); 1987-1988; 56; 31; 25; ; 274; 252 
-Cleveland Force; Major Indoor Soccer League (1978-1992); 1987-1988; 56; 30; 26; ; 242; 219 
-Dallas Sidekicks; Major Indoor Soccer League (1978-1992); 1987-1988; 56; 28; 28; ; 200; 204 
-Baltimore Blast; Major Indoor Soccer League (1978-1992); 1987-1988; 56; 25; 31; ; 235; 249 
-Chicago Sting; Major Indoor Soccer League (1978-1992); 1987-1988; 56; 24; 32; ; 227; 247 
-San Diego Sockers; Major Indoor Soccer League (1978-1992); 1987-1988; 56; 42; 14; ; 277; 189 
-Los Angeles Lazers; Major Indoor Soccer League (1978-1992); 1987-1988; 56; 31; 25; ; 291; 266 
-Kansas City Comets; Major Indoor Soccer League (1978-1992); 1987-1988; 56; 29; 27; ; 294; 290 
-Tacoma Stars; Major Indoor Soccer League (1978-1992); 1987-1988; 56; 27; 29; ; 259; 285 
-Wichita Wings; Major Indoor Soccer League (1978-1992); 1987-1988; 56; 23; 33; ; 232; 261 
-St. Louis Steamers; Major Indoor Soccer League (1978-1992); 1987-1988; 56; 18; 38; ; 214; 280
+Minnesota Strikers; 56; 31; 25; ; 274; 252 
+Cleveland Force; 56; 30; 26; ; 242; 219 
+Dallas Sidekicks; 56; 28; 28; ; 200; 204 
+Baltimore Blast; 56; 25; 31; ; 235; 249 
+Chicago Sting; 56; 24; 32; ; 227; 247 
+San Diego Sockers; 56; 42; 14; ; 277; 189 
+Los Angeles Lazers; 56; 31; 25; ; 291; 266 
+Kansas City Comets; 56; 29; 27; ; 294; 290 
+Tacoma Stars; 56; 27; 29; ; 259; 285 
+Wichita Wings; 56; 23; 33; ; 232; 261 
+St. Louis Steamers; 56; 18; 38; ; 214; 280
+
+Season: 1988-1989
+
+Baltimore Blast; 48; 29; 19; ; 215; 208 
+San Diego Sockers; 48; 27; 21; ; 218; 168 
+Dallas Sidekicks; 48; 24; 24; ; 185; 206 
+Tacoma Stars; 48; 23; 25; ; 208; 207 
+Wichita Wings; 48; 23; 25; ; 213; 208 
+Los Angeles Lazers; 48; 21; 27; ; 218; 222 
+Kansas City Comets; 48; 21; 27; ; 194; 233 
+
+Season: 1989-1990
+
+Baltimore Blast; 52; 32; 20; ; 231; 191 
+Kansas City Comets; 52; 30; 22; ; 208; 205 
+Wichita Wings; 52; 26; 26; ; 210; 229 
+Cleveland Crunch; 52; 20; 32; ; 201; 237 
+Dallas Sidekicks; 52; 31; 21; ; 217; 190 
+San Diego Sockers; 52; 25; 27; ; 217; 204 
+St. Louis Storm; 52; 24; 28; ; 202; 205 
+Tacoma Stars; 52; 20; 32; ; 191; 217 
+
+Season: 1990-1991
+
+Cleveland Crunch; 52; 29; 23; ; 322; 280 
+Kansas City Comets; 52; 26; 26; ; 263; 283 
+Baltimore Blast; 52; 21; 31; ; 298; 315 
+Wichita Wings; 52; 21; 31; ; 257; 308 
+San Diego Sockers; 52; 34; 18; ; 302; 250 
+St. Louis Storm; 52; 32; 20; ; 320; 288 
+Tacoma Stars; 52; 25; 27; ; 254; 259 
+Dallas Sidekicks; 52; 20; 32; ; 257; 294 
+
+Season: 1991-1992
+
+Canton Invaders; 40; 24; 16; ; 476; 447 
+Harrisburg Heat; 40; 24; 16; ; 547; 462 
+Detroit Rockers; 40; 22; 18; ; 542; 485 
+Dayton Dynamo; 40; 9; 31; ; 479; 593 
+Chicago Power; 40; 30; 10; ; 524; 439 
+Kansas City Attack; 40; 26; 14; ; 630; 473 
+Illinois Thunder; 40; 20; 20; ; 496; 523 
+Milwaukee Wave; 40; 18; 22; ; 453; 534 
+Tulsa Ambush; 40; 7; 33; ; 452; 643 
+
