@@ -1,6 +1,8 @@
 BlockSource: http://www.rsssf.com/usadave/mislii.html
 Competition: Major Indoor Soccer League (2001-2008)
 
+Key: team; games; wins; losses; win%; gb; goals_for; goals_against
+
 *Major Indoor Soccer League II
 *
 *Also AMERICAN PROFESSIONAL SOCCER ASSOCIATION, 1984-1990; 
@@ -10,10 +12,7 @@ Competition: Major Indoor Soccer League (2001-2008)
 Season:  1984-85
 * American Indoor Soccer Association
 
-Key: 
-
 *                            G   W   L    %   GB   GF  GA 
-
 Canton Invaders           ; 40;  31;   9;  .775;  --;  263;  187
 Columbus Capitals         ; 40;  26;  14;  .650;   5;  305;  261
 Louisville Thunder        ; 40;  21;  19;  .525;  10;  225;  202
