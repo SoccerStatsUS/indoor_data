@@ -1,6 +1,7 @@
 Competition: Major Indoor Soccer League (1978-1992)
 Season: 1987-1988
 BlockSource: Minnesota Strikers Media Guide 1987-1988
+away-first
 
 11/4/1987; Dallas; v; Tacoma
 11/6/1987; St. Louis; v; Kansas City
@@ -13,99 +14,99 @@ BlockSource: Minnesota Strikers Media Guide 1987-1988
 11/12/1987; Wichita; v; Dallas
 11/13/1987; Dallas; v; St. Louis
 11/13/1987; Kansas City; v; Los Angeles
-11/14/1987; 
-11/14/1987;
-11/14/1987;
-11/14/1987;
-11/14/1987;
-11/17/1987;
-11/17/1987;
-11/18/1987;
-11/18/1987;
-11/18/1987;
-11/20/1987;
-11/20/1987;
-11/20/1987;
-11/20/1987;
-11/20/1987;
-11/21/1987;
-11/22/1987;
-11/25/1987;
-11/25/1987;
-11/25/1987;
-11/25/1987;
-11/27/1987;
-11/27/1987;
-11/27/1987;
-11/27/1987;
-11/28/1987;
-11/28/1987;
-11/28/1987;
-11/29/1987;
-11/29/1987;
-12/2/1987;
-12/2/1987;
-12/2/1987;
-12/3/1987;
-12/4/1987;
-12/4/1987;
-12/4/1987;
-12/4/1987;
-12/5/1987;
-12/5/1987;
-12/6/1987;
-12/6/1987;
-12/6/1987;
-12/9/1987;
-12/9/1987;
-12/9/1987;
-12/11/1987;
-12/11/1987;
-12/11/1987;
-12/11/1987;
-12/12/1987;
-12/12/1987;
-12/12/1987;
-12/12/1987;
-12/15/1987;
-12/15/1987;
-12/16/1987;
-12/16/1987;
-12/18/1987;
-12/18/1987;
-12/18/1987;
-12/18/1987;
-12/19/1987;
-12/19/1987;
-12/19/1987;
-12/19/1987;
-12/19/1987;
-12/26/1987;
-12/26/1987;
-12/26/1987;
-12/26/1987;
-12/26/1987;
-12/27/1987;
-12/27/1987;
-12/27/1987;
-12/29/1987;
-12/29/1987;
-12/29/1987;
-12/30/1987;
-12/30/1987;
-12/30/1987;
+11/14/1987; Cleveland; v; Baltimore
+11/14/1987; Chicago; v; Minnesota
+11/14/1987; St. Louis; v; Wichita
+11/14/1987; Kansas City; v; San Diego
+11/14/1987; Los Angeles; v; Tacoma
+11/17/1987; Dallas; v; Baltimore
+11/17/1987; Tacoma; v; Minnesota
+11/18/1987; Dallas; v; Cleveland
+11/18/1987; Tacoma; v; St. Louis
+11/18/1987; San Diego; v; Los Angeles
+11/20/1987; Tacoma; v; Baltimore
+11/20/1987; Kansas City; v; Cleveland
+11/20/1987; St. Louis; v; Chicago
+11/20/1987; San Diego; v; Dallas
+11/20/1987; Los Angeles; v; Wichita
+11/21/1987; Minnesota; v; Los Angeles
+11/22/1987; Minnesota; v; San Diego
+11/25/1987; Dallas; v; Kansas City
+11/25/1987; Baltimore; v; St. Louis
+11/25/1987; San Diego; v; Wichita
+11/25/1987; Minnesota; v; Tacoma
+11/27/1987; Baltimore; v; Chicago
+11/27/1987; Los Angeles; v; St. Louis
+11/27/1987; Minnesota; v; Kansas City
+11/27/1987; Wichita; v; San Diego
+11/28/1987; Chicago; v; Cleveland
+11/28/1987; Baltimore; v; Dallas
+11/28/1987; Wichita; v; Tacoma
+11/29/1987; St. Louis; v; Minnesota
+11/29/1987; San Diego; v; Kansas City
+12/2/1987; Los Angeles; v; Dallas
+12/2/1987; Wichita; v; Kansas City
+12/2/1987; St. Louis; v; Tacoma
+12/3/1987; Cleveland; v; Baltimore
+12/4/1987; San Diego; v; Cleveland
+12/4/1987; Dallas; v; Chicago
+12/4/1987; Wichita; v; St. Louis
+12/4/1987; Tacoma; v; Kansas City
+12/5/1987; San Diego; v; Baltimore
+12/5/1987; St. Louis; v; Wichita
+12/6/1987; Tacoma; v; Cleveland
+12/6/1987; Minnesota; v; Chicago
+12/6/1987; Kansas City; v; Dallas
+12/9/1987; St. Louis; v; Minnesota
+12/9/1987; Wichita; v; Baltimore
+12/9/1987; Cleveland; v; Los Angeles
+12/11/1987; Chicago; v; St. Louis
+12/11/1987; Baltimore; v; Wichita
+12/11/1987; Cleveland; v; San Diego
+12/11/1987; Los Angeles; v; Tacoma
+12/12/1987; San Diego; v; Dallas
+12/12/1987; Baltimore; v; Kansas City
+12/12/1987; Chicago; v; Los Angeles
+12/12/1987; Cleveland; v; Tacoma
+12/15/1987; Minnesota; v; Baltimore
+12/15/1987; Chicago; v; San Diego
+12/16/1987; Los Angeles; v; Cleveland
+12/16/1987; Wichita; v; Kansas City
+12/18/1987; San Diego; v; Minnesota
+12/18/1987; Kansas City; v; St. Louis
+12/18/1987; Dallas; v; Wichita
+12/18/1987; Chicago; v; Tacoma
+12/19/1987; Los Angeles; v; Baltimore
+12/19/1987; Minnesota; v; Cleveland
+12/19/1987; Kansas City; v; Chicago
+12/19/1987; Wichita; v; Dallas
+12/19/1987; San Diego; v; Tacoma
+12/26/1987; Tacoma; v; Minnesota
+12/26/1987; Los Angeles; v; St. Louis
+12/26/1987; Chicago; v; Kansas City
+12/26/1987; Baltimore; v; Wichita
+12/26/1987; Dallas; v; San Diego
+12/27/1987; Wichita; v; Cleveland
+12/27/1987; Minnesota; v; Chicago
+12/27/1987; Dallas; v; Los Angeles
+12/29/1987; Minnesota; v; Baltimore
+12/29/1987; Cleveland; v; Chicago
+12/29/1987; San Diego; v; Wichita
+12/30/1987; Los Angeles; v; Minnesota
+12/30/1987; Cleveland; v; Dallas
+12/30/1987; St. Louis; v; Tacoma
 
-1/1
-1/2
-1/2
-1/2
-1/2
-1/2
-1/3
-1/3
-1/5
-1/5
-1/6
-1/6
-1/6
+1/1/1988; Baltimore; v; Minnesota
+1/2/1988; Chicago; v; Cleveland
+1/2/1988; Baltimore; v; Dallas
+1/2/1988; Kansas City; v; Wichita
+1/2/1988; St. Louis; v; San Diego
+1/2/1988; Los Angeles; v; Tacoma
+1/3/1988; Minnesota; v; Cleveland
+1/3/1988; St. Louis; v; Los Angeles
+1/5/1988; San Diego; v; Chicago
+1/5/1988; Dallas; v; Minnesota
+1/6/1988; San Diego; v; St. Louis
+1/6/1988; Baltimore; v; Kansas City
+1/6/1988; Wichita; v; Tacoma
 
