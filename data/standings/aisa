@@ -2,16 +2,18 @@ Competition: American Indoor Soccer Association
 BlockSource: http://homepages.sover.net/~spectrum/year/1985.html#AISA
 Season: 1984-1985
 
-Canton Invaders            40  31   9  .775  --  263  187
-Columbus Capitals          40  26  14  .650   5  305  261
-Louisville Thunder         40  21  19  .525  10  225  202
-Kalamazoo Kangaroos        40  15  25  .375  16  208  243
-Chicago Vultures           40  14  26  .350  17  194  267
-Milwaukee Wave             40  13  27  .325  17  213  248
+Key: team; games; wins; losses; w%; games_back; goals_for; goals_against
 
-Semifinals:     Canton defeated Kalamazoo 6-5(OT), 7-3, 4-6, 6-5(OT)
-                Louisville defeated Columbus 11-10, 14-12, 9-2
-FINALS:         Canton defeated Louisville 9-6, 8-7, 4-11, 3-1
+Canton Invaders           ; 40 ; 31  ; 9 ; .775 ; -- ; 263 ; 187
+Columbus Capitals         ; 40 ; 26  ;14 ; .650 ;  5 ; 305 ; 261
+Louisville Thunder        ; 40 ; 21  ;19 ; .525 ; 10 ; 225 ; 202
+Kalamazoo Kangaroos       ; 40 ; 15  ;25 ; .375 ; 16 ; 208 ; 243
+Chicago Vultures          ; 40 ; 14  ;26 ; .350 ; 17 ; 194 ; 267
+Milwaukee Wave            ; 40 ; 13  ;27 ; .325 ; 17 ; 213 ; 248
+
+*Semifinals:     Canton defeated Kalamazoo 6-5(OT), 7-3, 4-6, 6-5(OT)
+*                Louisville defeated Columbus 11-10, 14-12, 9-2
+*FINALS:         Canton defeated Louisville 9-6, 8-7, 4-11, 3-1
 
 
 
@@ -21,12 +23,12 @@ BlockSource: http://homepages.sover.net/~spectrum/year/1986.html#AISA
 
 
 *                            G   W   L    %   GB   GF  GA
-Canton Invaders            40  33   7  .825  --  243  149
-Louisville Thunder         40  31   9  .775   2  251  185
-Kalamazoo Kangaroos        40  17  23  .425  16  176  179
-Chicago Shoccers           40  15  25  .375  18  196  225
-Columbus Capitals          40  13  27  .325  20  200  270
-Milwaukee Wave             40  11  29  .275  22  189  247
+Canton Invaders           ; 40 ; 33  ; 7 ; .825 ; -- ; 243 ; 149
+Louisville Thunder        ; 40 ; 31  ; 9 ; .775 ;  2 ; 251 ; 185
+Kalamazoo Kangaroos       ; 40 ; 17  ;23 ; .425 ; 16 ; 176 ; 179
+Chicago Shoccers          ; 40 ; 15  ;25 ; .375 ; 18 ; 196 ; 225
+Columbus Capitals         ; 40 ; 13  ;27 ; .325 ; 20 ; 200 ; 270
+Milwaukee Wave            ; 40 ; 11  ;29 ; .275 ; 22 ; 189 ; 247
 
 *Semifinals:      Canton defeated Chicago 14-7, 5-3, 3-2 
 *                 Louisville defeated Kalamazoo 2-1, 4-3, 4-3(OT)
@@ -41,18 +43,17 @@ BlockSource: http://homepages.sover.net/~spectrum/year/1987.html#AISA
 
 
 
-*                            G   W   L    %   GB   GF  GA
 *                            Northern Division
-Canton Invaders            42  31  11  .775  --  255  165
-Chicago Shoccers           42  26  16  .650   5  232  200
-Toledo Pride               42  14  28  .350  17  179  210
-Milwaukee Wave             42  12  30  .300  19  148  222
+Canton Invaders           ; 42 ; 31  ;11 ; .775 ; -- ; 255 ; 165
+Chicago Shoccers          ; 42 ; 26  ;16 ; .650 ;  5 ; 232 ; 200
+Toledo Pride              ; 42 ; 14  ;28 ; .350 ; 17 ; 179 ; 210
+Milwaukee Wave            ; 42 ; 12  ;30 ; .300 ; 19 ; 148 ; 222
 
 *          Southern Division
-Louisville Thunder         42  27  15  .675  --  213  181
-Memphis Storm              42  24  18  .600   3  180  166
-Tampa Bay Rowdies          42  21  21  .525   6  170  172
-Fort Wayne Flames          42  13  29  .325  14  157  218
+Louisville Thunder        ; 42 ; 27  ;15 ; .675 ; -- ; 213 ; 181
+Memphis Storm             ; 42 ; 24  ;18 ; .600 ;  3 ; 180 ; 166
+Tampa Bay Rowdies         ; 42 ; 21  ;21 ; .525 ;  6 ; 170 ; 172
+Fort Wayne Flames         ; 42 ; 13  ;29 ; .325 ; 14 ; 157 ; 218
 
 *Quarterfinals:        Chicago defeated Toledo 4-5 OT, 7-1, 1-0(MG)
 *                      Memphis def. Tampa Bay 4-1, ?-5, 3-2 (MG)
@@ -67,40 +68,39 @@ Fort Wayne Flames          42  13  29  .325  14  157  218
 Season: 1987-1988
 BlockSource: http://homepages.sover.net/~spectrum/year/1988.html#AISA
 
-*                            G   W   L    %   GB   GF  GA
-*                            REGULAR SEASON
-Memphis Storm              24  16   8  .667  --  104   94
-Canton Invaders            24  12  12  .500   4  108   97
-Milwaukee Wave             24  11  13  .458   5  103  111
-Fort Wayne Flames          24   9  15  .375   7   99  112
+Stage: regular season
+
+Memphis Storm             ; 24 ; 16  ; 8 ; .667 ; -- ; 104 ;  94
+Canton Invaders           ; 24 ; 12  ;12 ; .500 ;  4 ; 108 ;  97
+Milwaukee Wave            ; 24 ; 11  ;13 ; .458 ;  5 ; 103 ; 111
+Fort Wayne Flames         ; 24 ;  9  ;15 ; .375 ;  7 ;  99 ; 112
 
 *For the Champions Cup, Jacksonville and Dayton were added.
 
+Stage: challenge cup
 *        CHALLENGE CUP
-Canton Invaders            12   9   3  .750  --   67   55
-Fort Wayne Flames          12   8   4  .667   1   71   31
-Milwaukee Wave             12   6   6  .500   3   50   51
-Jacksonville Generals      12   6   6  .500   3   52   57
-Memphis Storm              12   4   8  .333   5   44   53
-Dayton Dynamo              12   3   9  .250   6   46   63
+
+Canton Invaders           ; 12 ;  9  ; 3 ; .750 ; -- ;  67 ;  55
+Fort Wayne Flames         ; 12 ;  8  ; 4 ; .667 ;  1 ;  71 ;  31
+Milwaukee Wave            ; 12 ;  6  ; 6 ; .500 ;  3 ;  50 ;  51
+Jacksonville Generals     ; 12 ;  6  ; 6 ; .500 ;  3 ;  52 ;  57
+Memphis Storm             ; 12 ;  4  ; 8 ; .333 ;  5 ;  44 ;  53
+Dayton Dynamo             ; 12 ;  3  ; 9 ; .250 ;  6 ;  46 ;  63
 
 *CHALLENGE CUP WINNER:  Canton.
 *After the Challenge Cup, Jacksonville folded.
 
 
-
 Season: 1988-1989
 BlockSource: http://homepages.sover.net/~spectrum/year/1989.html#AISA
 
-
-                            G   W   L    %   GB   GF  GA 
-Canton Invaders            40  25  15  .625  --  454  368
-Milwaukee Wave             40  24  16  .600   1  367  355
-Chicago Power              40  22  18  .550   3  375  380
-Hershey Impact             40  21  19  .525   4  360  335
-Fort Wayne Flames          40  20  20  .500   5  337  299
-Dayton Dynamo              40  14  26  .350  11  328  350
-Memphis Storm              40  14  26  .350  11  303  387
+Canton Invaders           ; 40 ; 25  ;15 ; .625 ; -- ; 454 ; 368
+Milwaukee Wave            ; 40 ; 24  ;16 ; .600 ;  1 ; 367 ; 355
+Chicago Power             ; 40 ; 22  ;18 ; .550 ;  3 ; 375 ; 380
+Hershey Impact            ; 40 ; 21  ;19 ; .525 ;  4 ; 360 ; 335
+Fort Wayne Flames         ; 40 ; 20  ;20 ; .500 ;  5 ; 337 ; 299
+Dayton Dynamo             ; 40 ; 14  ;26 ; .350 ; 11 ; 328 ; 350
+Memphis Storm             ; 40 ; 14  ;26 ; .350 ; 11 ; 303 ; 387
 
 *Semifinals:      Canton defeated Hershey 14-8, 5-0
 *                 Chicago defeated Milwaukee 16-12, 10-14, 20-4
@@ -113,18 +113,19 @@ Memphis Storm              40  14  26  .350  11  303  387
 Season: 1989-1990
 BlockSource: http://homepages.sover.net/~spectrum/year/1990.html#AISA
 
-*                            G   W   L    %   GB   GF  GA
 *                            American Division
-Canton Invaders            40  36   4  .900  --  544  321
-Atlanta Attack             40  23  17  .575  13  443  382
-Hershey Impact             40  19  21  .475  17  397  384
-Memphis Rogues             40   6  34  .150  30  267  484
+
+Canton Invaders           ; 40 ; 36  ; 4 ; .900 ; -- ; 544 ; 321
+Atlanta Attack            ; 40 ; 23  ;17 ; .575 ; 13 ; 443 ; 382
+Hershey Impact            ; 40 ; 19  ;21 ; .475 ; 17 ; 397 ; 384
+Memphis Rogues            ; 40 ;  6  ;34 ; .150 ; 30 ; 267 ; 484
 
 *        National Division
-Dayton Dynamo              40  21  19  .525  --  388  354
-Milwaukee Wave             40  21  19  .525  --  373  353
-Chicago Power              40  20  20  .500   1  375  394
-Indiana Kick               40  14  26  .350   7  368  488
+
+Dayton Dynamo             ; 40 ; 21  ;19 ; .525 ; -- ; 388 ; 354
+Milwaukee Wave            ; 40 ; 21  ;19 ; .525 ; -- ; 373 ; 353
+Chicago Power             ; 40 ; 20  ;20 ; .500 ;  1 ; 375 ; 394
+Indiana Kick              ; 40 ; 14  ;26 ; .350 ;  7 ; 368 ; 488
 
 *First Round:         Atlanta defeated Hershey 13-10, 13-9
 *                     Milwaukee def. Chicago 8-6, 8-6
