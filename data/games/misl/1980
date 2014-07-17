@@ -104,46 +104,46 @@ BlockSource: MISL Media Guide 1981-82
 
 * Buffalo Stallions
 
-11/7/1980; Buffalo Stallions; 
-11/9/1980; Buffalo Stallions; 
-11/14/1980; Buffalo Stallions; 
-11/19/1980; Buffalo Stallions; 
-11/28/1980; Buffalo Stallions; 
-11/30/1980; Buffalo Stallions; 
-12/1/1980; Buffalo Stallions; 
-12/3/1980; Buffalo Stallions; 
-12/5/1980; Buffalo Stallions; 
-12/7/1980; Buffalo Stallions; 
-12/12/1980; Buffalo Stallions; 
-12/13/1980; Buffalo Stallions; 
-12/17/1980; Buffalo Stallions; 
-12/19/1980; Buffalo Stallions; 
-12/27/1980; Buffalo Stallions; 
-1/2/1981; Buffalo Stallions; 
-1/6/1981; Buffalo Stallions; 
-1/9/1981; Buffalo Stallions; 
-1/11/1981; Buffalo Stallions; 
-1/12/1981; Buffalo Stallions; 
-1/16/1981; Buffalo Stallions; 
-1/18/1981; Buffalo Stallions; 
-1/23/1981; Buffalo Stallions; 
-1/24/1981; Buffalo Stallions; 
-1/26/1981; Buffalo Stallions; 
-1/27/1981; Buffalo Stallions; 
-1/30/1981; Buffalo Stallions; 
-2/1/1981; Buffalo Stallions; 
-2/5/1981; Buffalo Stallions; 
-2/7/1981; Buffalo Stallions; 
-2/8/1981; Buffalo Stallions; 
-2/13/1981; Buffalo Stallions; 
-2/15/1981; Buffalo Stallions; 
-2/18/1981; Buffalo Stallions; 
-2/22/1981; Buffalo Stallions; 
-2/27/1981; Buffalo Stallions; 
-3/1/1981; Buffalo Stallions; 
-3/5/1981; Buffalo Stallions; 
-3/7/1981; Buffalo Stallions; 
-3/8/1981; Buffalo Stallions; 
+*11/7/1980; Buffalo Stallions; 
+*11/9/1980; Buffalo Stallions; 
+*11/14/1980; Buffalo Stallions; 
+*11/19/1980; Buffalo Stallions; 
+*11/28/1980; Buffalo Stallions; 
+*11/30/1980; Buffalo Stallions; 
+*12/1/1980; Buffalo Stallions; 
+*12/3/1980; Buffalo Stallions; 
+*12/5/1980; Buffalo Stallions; 
+*12/7/1980; Buffalo Stallions; 
+*12/12/1980; Buffalo Stallions; 
+*12/13/1980; Buffalo Stallions; 
+*12/17/1980; Buffalo Stallions; 
+*12/19/1980; Buffalo Stallions; 
+*12/27/1980; Buffalo Stallions; 
+*1/2/1981; Buffalo Stallions; 
+*1/6/1981; Buffalo Stallions; 
+*1/9/1981; Buffalo Stallions; 
+*1/11/1981; Buffalo Stallions; 
+*1/12/1981; Buffalo Stallions; 
+*1/16/1981; Buffalo Stallions; 
+*1/18/1981; Buffalo Stallions; 
+*1/23/1981; Buffalo Stallions; 
+*1/24/1981; Buffalo Stallions; 
+*1/26/1981; Buffalo Stallions; 
+*1/27/1981; Buffalo Stallions; 
+*1/30/1981; Buffalo Stallions; 
+*2/1/1981; Buffalo Stallions; 
+*2/5/1981; Buffalo Stallions; 
+*2/7/1981; Buffalo Stallions; 
+*2/8/1981; Buffalo Stallions; 
+*2/13/1981; Buffalo Stallions; 
+*2/15/1981; Buffalo Stallions; 
+*2/18/1981; Buffalo Stallions; 
+*2/22/1981; Buffalo Stallions; 
+*2/27/1981; Buffalo Stallions; 
+*3/1/1981; Buffalo Stallions; 
+*3/5/1981; Buffalo Stallions; 
+*3/7/1981; Buffalo Stallions; 
+*3/8/1981; Buffalo Stallions; 
 
 
 
@@ -172,7 +172,7 @@ BlockSource: MISL Media Guide 1981-82
 1/16/1981; Cleveland Force; 7-10; New York; away
 1/20/1981; Cleveland Force; 5-9; Philadelphia; away
 1/21/1981; Cleveland Force; 1-3; St. Louis; home
-1/23/1981; Cleveland Force; 5-; Buffalo; away
+*1/23/1981; Cleveland Force; 5-; Buffalo; away
 1/24/1981; Cleveland Force; 5-4 (ot); Hartford; home
 1/28/1981; Cleveland Force; 6-5 (ot); Wichita; home
 1/30/1981; Cleveland Force; 4-7; Phoenix; home
@@ -201,7 +201,7 @@ BlockSource: MISL Media Guide 1981-82
 11/30/1980; Denver Avalanche; 4-10; Chicago; away
 12/3/1980; Denver Avalanche; 4-3 (so); Hartford; home
 12/5/1980; Denver Avalanche; 4-6; San Francisco; away
-12/6/1980; Denver Avalanche; 3-5; Philadelhpi; home
+12/6/1980; Denver Avalanche; 3-5; Philadelphia; home
 12/12/1980; Denver Avalanche; 3-6; St. Louis; away
 12/13/1980; Denver Avalanche; 4-8; New York; home
 12/19/1980; Denver Avalanche; 5-2; San Francisco; home
@@ -328,7 +328,7 @@ BlockSource: MISL Media Guide 1981-82
 * New York Arrows
 
 11/16/1980; New York Arrows; 7-2; Wichita; home
-11/18/1980; New York Arrows; 10-3; Phildelphia; away
+11/18/1980; New York Arrows; 10-3; Philadelphia; away
 11/21/1980; New York Arrows; 8-7 (ot); Chicago; away
 11/23/1980; New York Arrows; 2-1; Hartford; home
 11/26/1980; New York Arrows; 3-5; Baltimore; home
@@ -351,10 +351,10 @@ BlockSource: MISL Media Guide 1981-82
 1/11/1981; New York Arrows; 5-2; San Francisco; home
 1/14/1981; New York Arrows; 4-3; Denver; away
 1/16/1981; New York Arrows; 10-7; Cleveland; home
-1/18/1981; New York Arrows; 12-5; altimore; home
+1/18/1981; New York Arrows; 12-5; Baltimore; home
 1/22/1981; New York Arrows; 4-3; Baltimore; away
 1/23/1981; New York Arrows; 10-8; Philadelphia; home
-1/30/1981; New York Arrows; 9-8; Hartford (ot); home
+1/30/1981; New York Arrows; 9-8 (ot); Hartford; home
 2/1/1981; New York Arrows; 3-4 (ot); St. Louis; home
 2/6/1981; New York Arrows; 11-7; Philadelphia; home
 2/8/1981; New York Arrows; 9-2; Hartford; home
@@ -427,7 +427,7 @@ BlockSource: MISL Media Guide 1981-82
 12/10/1980; Phoenix Inferno; 11-5; San Francisco; home
 12/12/1980; Phoenix Inferno; 5-13; Buffalo; away
 12/14/1980; Phoenix Inferno; 4-6; Baltimore; away
-12/20/1980; Phoenix Inferno; 6-3; Philadelphia home
+12/20/1980; Phoenix Inferno; 6-3; Philadelphia; home
 12/21/1980; Phoenix Inferno; 4-7; St. Louis; away
 12/23/1980; Phoenix Inferno; 3-5; Denver; away
 12/26/1980; Phoenix Inferno; 6-8; Wichita; away
@@ -465,7 +465,7 @@ BlockSource: MISL Media Guide 1981-82
 
 11/20/1980; St. Louis Steamers; 6-3; Baltimore; home
 11/22/1980; St. Louis Steamers; 7-5; Denver; away
-11/28/1980; St. Louis Steamers; 4-2; Philadelphi; away
+11/28/1980; St. Louis Steamers; 4-2; Philadelphia; away
 11/30/1980; St. Louis Steamers; 8-7; Cleveland; home
 12/3/1980; St. Louis Steamers; 2-7; Chicago; away
 12/5/1980; St. Louis Steamers; 5-4; Buffalo; away
@@ -498,7 +498,7 @@ BlockSource: MISL Media Guide 1981-82
 2/13/1981; St. Louis Steamers; 4-7; Chicago; away
 2/15/1981; St. Louis Steamers; 1-6; New York; away
 2/18/1981; St. Louis Steamers; 5-6; Cleveland; away
-2/20/1981; St. Louis Steamers; 6-3; Dener; home
+2/20/1981; St. Louis Steamers; 6-3; Denver; home
 2/22/1981; St. Louis Steamers; 3-13; Cleveland; away
 2/27/1981; St. Louis Steamers; 4-7; Buffalo; home
 3/1/1981; St. Louis Steamers; 3-4; Chicago; home
@@ -523,7 +523,7 @@ BlockSource: MISL Media Guide 1981-82
 12/18/1980; Wichita Wings; 4-8; Baltimore; away
 12/19/1980; Wichita Wings; 4-9; Buffalo; away
 12/26/1980; Wichita Wings; 8-6; Phoenix; home
-12/28/1980; Wichita Wings; 8-0; San Francisco home
+12/28/1980; Wichita Wings; 8-0; San Francisco; home
 
 1/2/1981; Wichita Wings; 10-0; Cleveland; home
 1/4/1981; Wichita Wings; 2-11; St. Louis; away
@@ -573,7 +573,7 @@ Crossley, Crossley, Collins, Collins, Counce, COker, Mangione, Morelli, Pollihan
 Cohen, DeSouza, Counce, Crossley, Collins;
 
 12/6/1980; Baltimore Blast; 6-5; Cleveland; home; 6794
-Crossley, Crossley, Harsanyi, Harsanyi, DeSouza, Morielli
+Crossley, Crossley, Harsanyi, Harsanyi, DeSouza, Morielli;
 
 12/9/1980; Baltimore Blast; 3-4 (ot); San Francisco; home; 2477
 DeSouza, Counce, Askew;
@@ -585,7 +585,7 @@ Coker, Cohen, Liveric;
 Counce, Coker, Pereira, Crossley, Harsanyi, Harsanyi;
 
 12/18/1980; Baltimore Blast; 8-4; Wichita; home; 3379
-Crossley, Crossley, Crossley, Liveric, Coker, Pollihan, Mangione, Counce
+Crossley, Crossley, Crossley, Liveric, Coker, Pollihan, Mangione, Counce;
 
 12/21/1980; Baltimore Blast; 5-7; Hartford; home; 3911
 Liveric, Liveric, Counce, Crossley;

@@ -97,8 +97,8 @@ BlockSource: MISL 1985-1986 Media Guide
 3/2/1985; Chicago Sting; 5-3; Tacoma; home
 3/7/1985; Chicago Sting; 7-4; Baltimore; home
 3/10/1985; Chicago Sting; 4-6; Minnesota; away
-3/16/1985; Chicago Sting; 5-3; Pittsbugh; home
-3/17/1985; Chicago Sting; 6-2; Pittsbugh; away
+3/16/1985; Chicago Sting; 5-3; Pittsburgh; home
+3/17/1985; Chicago Sting; 6-2; Pittsburgh; away
 3/20/1985; Chicago Sting; 7-3; Los Angeles; away
 3/22/1985; Chicago Sting; 4-5 (ot); San Diego; away
 3/23/1985; Chicago Sting; 0-4; Las Vegas; away
@@ -132,7 +132,7 @@ BlockSource: MISL 1985-1986 Media Guide
 1/4/1985; Cleveland Force; 3-4 (ot); Wichita; home
 1/5/1985; Cleveland Force; 2-4; Minnesota; away
 1/11/1985; Cleveland Force; 5-4 (ot); Las Vegas; home
-1/13/1985; Cleveland Force; 7-6; Pittsbugh; away
+1/13/1985; Cleveland Force; 7-6; Pittsburgh; away
 1/16/1985; Cleveland Force; 6-4; Dallas; home
 1/24/1985; Cleveland Force; 5-8; San Diego; away
 1/26/1985; Cleveland Force; 2-6; Las Vegas; away
@@ -212,7 +212,7 @@ BlockSource: MISL 1985-1986 Media Guide
 3/24/1985; Kansas City Comets; 6-1; St. Louis; home
 3/29/1985; Kansas City Comets; 4-8; Los Angeles; home
 3/31/1985; Kansas City Comets; 4-3 (ot); Pittsburgh; home
-4/4/1985; Kansas City Comets; 6-4; Dallas away
+4/4/1985; Kansas City Comets; 6-4; Dallas; away
 4/8/1985; Kansas City Comets; 1-7; Los Angeles; away
 4/10/1985; Kansas City Comets; 8-6; Tacoma; away
 4/12/1985; Kansas City Comets; 3-4 (ot); St. Louis; away
@@ -237,7 +237,7 @@ BlockSource: MISL 1985-1986 Media Guide
 12/22/1984; Los Angeles Lazers; 2-5; Cosmos; home
 12/23/1984; Los Angeles Lazers; 6-5 (ot); San Diego; home
 12/30/1984; Los Angeles Lazers; 8-7; Wichita; away
-1/5/1985; Los Angeles Lazers; 6-4; Tcoma; home
+1/5/1985; Los Angeles Lazers; 6-4; Tacoma; home
 1/11/1985; Los Angeles Lazers; 7-5; St. Louis; home
 1/12/1985; Los Angeles Lazers; 7-2; Dallas; away
 1/17/1985; Los Angeles Lazers; 6-7; Minnesota; home
@@ -294,39 +294,39 @@ BlockSource: MISL 1985-1986 Media Guide
 12/27/1984; Pittsburgh Spirit; 2-3 (ot); San Diego; home
 12/28/1984; Pittsburgh Spirit; 1-6; Dallas; away
 
-1/4/1985; Pittsburgh Spirits; 9-5; Minnesota; home
-1/10/1985; Pittsburgh Spirits; 3-6; Chicago; away
-1/11/1985; Pittsburgh Spirits; 2-1; Minnesota; away
-1/13/1985; Pittsburgh Spirits; 6-7; Cleveland; home
-1/18/1985; Pittsburgh Spirits; 5-4 (ot); Cosmos; home
-1/23/1985; Pittsburgh Spirits; 4-8; Tacoma; away
-1/26/1985; Pittsburgh Spirits; 4-6; San Diego; away
-1/29/1985; Pittsburgh Spirits; 3-4 (ot); Las Vegas; away
-2/1/1985; Pittsburgh Spirits; 5-4 (ot); Kansas City; home
-2/3/1985; Pittsburgh Spirits; 3-7; San Diego; home
-2/6/1985; Pittsburgh Spirits; 5-4 (ot); St. Louis; home
-2/8/1985; Pittsburgh Spirits; 2-3; Kansas City; away
-2/10/1985; Pittsburgh Spirits; 2-5; Baltimore; away
-2/13/1985; Pittsburgh Spirits; 3-5; St. Louis; away
-2/15/1985; Pittsburgh Spirits; 6-9; Wichita; away
-2/17/1985; Pittsburgh Spirits; 5-4; Minnesota; home
-2/21/1985; Pittsburgh Spirits; 3-1; Wichita; home
-3/1/1985; Pittsburgh Spirits; 3-5; Baltimore; away
-3/3/1985; Pittsburgh Spirits; 2-7; Los Angeles; home
-3/9/1985; Pittsburgh Spirits; 5-8; San Diego; away
-3/11/1985; Pittsburgh Spirits; 7-6; Los Angeles; away
-3/13/1985; Pittsburgh Spirits; 2-7; St. Louis; away
-3/14/1985; Pittsburgh Spirits; 10-5; Tacoma; home
-3/16/1985; Pittsburgh Spirits; 3-5; Chicago; away
-3/17/1985; Pittsburgh Spirits; 2-6; Chicago; home
-3/22/1985; Pittsburgh Spirits; 5-7; Cleveland; away
-3/29/1985; Pittsburgh Spirits; 4-3 (ot); Cleveland; home
-3/31/1985; Pittsburgh Spirits; 3-4 (ot); Kansas City; away
-4/4/1985; Pittsburgh Spirits; 4-3 (ot); Las Vegas; home
-4/6/1985; Pittsburgh Spirits; 6-3; Baltimore; home
-4/7/1985; Pittsburgh Spirits; 4-7; Minnesota; away
-4/11/1985; Pittsburgh Spirits; 2-4; Baltimore; home
-4/13/1985; Pittsburgh Spirits; 7-5; Dallas; home
+1/4/1985; Pittsburgh Spirit; 9-5; Minnesota; home
+1/10/1985; Pittsburgh Spirit; 3-6; Chicago; away
+1/11/1985; Pittsburgh Spirit; 2-1; Minnesota; away
+1/13/1985; Pittsburgh Spirit; 6-7; Cleveland; home
+1/18/1985; Pittsburgh Spirit; 5-4 (ot); Cosmos; home
+1/23/1985; Pittsburgh Spirit; 4-8; Tacoma; away
+1/26/1985; Pittsburgh Spirit; 4-6; San Diego; away
+1/29/1985; Pittsburgh Spirit; 3-4 (ot); Las Vegas; away
+2/1/1985; Pittsburgh Spirit; 5-4 (ot); Kansas City; home
+2/3/1985; Pittsburgh Spirit; 3-7; San Diego; home
+2/6/1985; Pittsburgh Spirit; 5-4 (ot); St. Louis; home
+2/8/1985; Pittsburgh Spirit; 2-3; Kansas City; away
+2/10/1985; Pittsburgh Spirit; 2-5; Baltimore; away
+2/13/1985; Pittsburgh Spirit; 3-5; St. Louis; away
+2/15/1985; Pittsburgh Spirit; 6-9; Wichita; away
+2/17/1985; Pittsburgh Spirit; 5-4; Minnesota; home
+2/21/1985; Pittsburgh Spirit; 3-1; Wichita; home
+3/1/1985; Pittsburgh Spirit; 3-5; Baltimore; away
+3/3/1985; Pittsburgh Spirit; 2-7; Los Angeles; home
+3/9/1985; Pittsburgh Spirit; 5-8; San Diego; away
+3/11/1985; Pittsburgh Spirit; 7-6; Los Angeles; away
+3/13/1985; Pittsburgh Spirit; 2-7; St. Louis; away
+3/14/1985; Pittsburgh Spirit; 10-5; Tacoma; home
+3/16/1985; Pittsburgh Spirit; 3-5; Chicago; away
+3/17/1985; Pittsburgh Spirit; 2-6; Chicago; home
+3/22/1985; Pittsburgh Spirit; 5-7; Cleveland; away
+3/29/1985; Pittsburgh Spirit; 4-3 (ot); Cleveland; home
+3/31/1985; Pittsburgh Spirit; 3-4 (ot); Kansas City; away
+4/4/1985; Pittsburgh Spirit; 4-3 (ot); Las Vegas; home
+4/6/1985; Pittsburgh Spirit; 6-3; Baltimore; home
+4/7/1985; Pittsburgh Spirit; 4-7; Minnesota; away
+4/11/1985; Pittsburgh Spirit; 2-4; Baltimore; home
+4/13/1985; Pittsburgh Spirit; 7-5; Dallas; home
 
 
 
@@ -350,7 +350,7 @@ BlockSource: MISL 1985-1986 Media Guide
 12/29/1984; San Diego Sockers; 5-6; Baltimore; away
 12/30/1984; San Diego Sockers; 5-4 (so); Cosmos; away
 
-1/5/1985; San Diego Sockers; 6-1; Kanssas City; home
+1/5/1985; San Diego Sockers; 6-1; Kansas City; home
 1/11/1985; San Diego Sockers; 6-7; Tacoma; home
 1/17/1985; San Diego Sockers; 3-6; Baltimore; home
 1/19/1985; San Diego Sockers; 5-2; Minnesota; home
@@ -396,7 +396,7 @@ BlockSource: MISL 1985-1986 Media Guide
 12/7/1984; St. Louis Steamers; 3-4; San Diego; home
 12/13/1984; St. Louis Steamers; 5-3; Las Vegas; away
 12/15/1984; St. Louis Steamers; 5-9; San Diego; away
-12/19/1984; St. Louis Steamers; 2-5; Loas Angeles; away
+12/19/1984; St. Louis Steamers; 2-5; Los Angeles; away
 12/23/1984; St. Louis Steamers; 10-1; Kansas City; home
 12/28/1984; St. Louis Steamers; 3-5; Cleveland; away
 12/30/1984; St. Louis Steamers; 6-7 (ot); Dallas; home
