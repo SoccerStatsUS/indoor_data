@@ -1,0 +1,27 @@
+Competition: World Indoor Soccer League
+Key: team; games; wins; losses; ties; goals_for; goals_against; goal_difference; points
+
+Season: 2014-2015
+BlockSource: https://en.wikipedia.org/wiki/2014%E2%80%9315_Western_Indoor_Soccer_League_season
+
+Tacoma Stars; 8; 8; 0; 0; 67; 25; 42; 24
+Bellingham United; 8; 5; 2; 1; 59; 47; 12; 16
+Wenatchee Fire; 8; 3; 4; 1; 49; 63; -14; 10
+Oly Town Artesians; 8; 3; 5; 0; 54; 69; -15; 9
+Arlington Aviators; 8; 0; 8; 0; 32; 57; -25; 0
+
+
+Season: 2015-2016
+BlockSource: https://en.wikipedia.org/wiki/2015%E2%80%9316_Western_Indoor_Soccer_League_season
+
+Bellingham United; 10; 9; 1; 0; 92; 47; 45; 27
+Olympic Force; 10; 9; 1; 0; 89; 52; 37; 27
+Sporting Everett FC; 10; 5; 5; 0; 68; 75; -7; 15
+Tacoma Stars Reserves; 10; 4; 5; 1; 55; 52; 3; 13
+Snohomish Skyhawks; 10; 4; 6; 0; 42; 64; -22; 12
+Oly Town Artesians; 10; 2; 7; 1; 54; 78; -24; 7
+Vancouver Victory FC; 10; 1; 9; 0; 48; 80; -32; 3
+
+
+
+
